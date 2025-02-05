@@ -1,0 +1,85 @@
+# Types of Lithography
+
+This module concludes the discussion on lithography systems, focusing on the **exposure system** used in photolithography.
+The lecture provides an overview of the lithography process, types of exposure systems, and their performance parameters.
+
+---
+
+### **1. Overview of Photolithography Process**
+The photolithography process involves several key steps:
+1. **Photoresist Application**: Coating the wafer with either **positive** or **negative photoresist**.
+2. **Mask Alignment**: Using **bright field** or **dark field masks** to define patterns.
+3. **Process Flow**:
+   - Clean the wafer and apply a primer to improve photoresist adhesion.
+   - Perform a **pre-bake** (200°C) to remove moisture.
+   - Spin-coat the photoresist and perform a **soft bake**.
+   - Align the mask and expose the photoresist to **UV light**.
+   - Develop the photoresist, inspect the wafer, and perform a **post-exposure bake** (if required).
+
+---
+
+### **2. Exposure Systems in Lithography**
+The system used to expose the photoresist is called the **mask aligner**, which aligns the mask and exposes the photoresist using a UV source.
+The lithography process involves:
+- Coating the wafer with photoresist.
+- Soft baking (or pre-baking) the photoresist.
+- Aligning the mask and exposing the photoresist to UV light.
+- Developing the photoresist and inspecting the wafer.
+
+The sequence varies slightly depending on the type of photoresist used (e.g., **SU8**, a negative photoresist, requires a post-exposure bake before development).
+
+---
+
+### **3. Performance Parameters of Lithography Systems**
+The performance of a lithography system is measured by:
+1. **Resolution**: The minimum feature size that can be exposed. For UV lithography, the theoretical limit is around **2 microns**. Smaller features require **e-beam lithography**.
+2. **Sensitivity**: The exposure time required for the photoresist to react to UV light.
+3. **Alignment Precision**: The accuracy with which the mask aligns with the wafer.
+
+---
+
+### **4. Types of Lithography Exposure Systems**
+There are three primary types of lithography exposure systems:
+
+#### **A. Contact Printing**
+- The mask is placed directly on the photoresist-coated wafer (chrome side down).
+- **Advantages**: High resolution due to direct contact.
+- **Disadvantages**: Risk of damaging or contaminating the mask and wafer. Not suitable for high-volume manufacturing.
+
+#### **B. Proximity Printing**
+- The mask is kept **5-25 microns** away from the wafer to avoid contamination.
+- **Advantages**: Reduced risk of damage to the mask and wafer.
+- **Disadvantages**: Lower resolution due to diffraction patterns. Minimum feature size is around **20 microns**.
+
+#### **C. Projection Printing**
+- The mask is physically separated from the wafer, and an optical system projects the mask's image onto the wafer.
+- **Advantages**: High resolution without contamination. The mask image is often reduced (e.g., 4X-5X) for better precision.
+- **Disadvantages**: Slower process due to the need to expose the wafer in sections.
+
+---
+
+### **5. Advanced Lithography Techniques**
+#### **A. E-Beam Lithography**
+- Uses an **electron beam** to directly write patterns on the wafer.
+- **Advantages**: Extremely high resolution (down to **20 nanometers**), overcoming the limitations of optical lithography.
+- **Disadvantages**: Slow process, high cost, and requires a high-vacuum environment. Suitable for research and low-volume production.
+
+#### **B. Light Sources for Lithography**
+- Traditional systems use **mercury vapor lamps** (UV light).
+- Advanced systems use **deep ultraviolet (DUV)** or **extreme ultraviolet (EUV)** light sources for smaller feature sizes.
+- Common wavelengths include **G-line**, **I-line**, **248 nm**, and **193 nm**.
+
+---
+
+### **6. Summary of Lithography Techniques**
+- **Contact Printing**: High resolution but prone to contamination.
+- **Proximity Printing**: Reduced contamination but lower resolution.
+- **Projection Printing**: High resolution and no contamination, but slower.
+- **E-Beam Lithography**: Highest resolution but slow and expensive.
+
+---
+
+### **Conclusion**
+This module covered the **types of lithography exposure systems**, their performance parameters, and advanced techniques like **e-beam lithography**. 
+Each method has its advantages and limitations, making it suitable for specific applications. The choice of lithography system depends on the desired feature size,
+throughput, and cost considerations. With this, the lithography class concludes, and the next module will explore other topics in microfabrication.
