@@ -1,0 +1,38 @@
+This lecture is on **photolithography**, focusing on the role of **masks** in the process. Here's a summary:
+
+### Key Points:
+1. **Purpose of Masks**:
+   - Masks are used in photolithography to control where UV light exposes the photoresist on a wafer.
+   - They protect certain areas from light while allowing it to pass through others.
+
+2. **Types of Masks**:
+   - **Bright Field Mask**: Most of the field is transparent, and features are opaque (e.g., chrome on glass).
+   - **Dark Field Mask**: Most of the field is opaque, and features are transparent.
+
+3. **Mask Materials**:
+   - Common materials include **chromium** (chrome mask) or **Fe₂O₃** on glass.
+   - Masks are created using **electron beam (ebeam) lithography**, which patterns the mask with high precision.
+
+4. **Mask Design**:
+   - Features are designed using software like **Clewin** and transferred to the mask-making machine.
+   - Masks include **alignment marks** and **test structures** to ensure proper alignment during fabrication.
+
+5. **Alignment Marks**:
+   - Alignment marks are critical for multi-mask processes.
+   - Each subsequent mask has smaller alignment marks to ensure proper alignment with the previous mask.
+
+6. **Two-Mask Process Example**:
+   - Demonstrates how two masks are aligned using alignment marks to create a final pattern on a wafer.
+   - Steps include depositing materials (e.g., aluminum), patterning with photoresist, and etching.
+
+7. **Defects in Masks**:
+   - Defects like **chrome spots**, **bridging**, **holes**, or **clear breaks** can ruin the entire wafer.
+   - Precision and cleanliness are crucial in mask-making.
+
+8. **Applications**:
+   - Masks are used in fabricating devices like **MEMS-based gas sensors** and semiconductor chips.
+
+### Conclusion:
+The lecture explains the importance of masks in photolithography, their types, materials, design, and alignment. It also highlights the need for precision to avoid defects that can compromise the fabrication process. The next module will cover the **exposure system** in photolithography.
+
+Let me know for further clarification!
