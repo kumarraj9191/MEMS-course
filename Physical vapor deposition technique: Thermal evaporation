@@ -1,0 +1,38 @@
+### Summary of Lecture on Evaporation Techniques
+
+The lecture introduces **evaporation techniques**, primarily focusing on **thermal evaporation** and **electron beam (E-beam) evaporation**.  
+
+#### **1. Thermal Evaporation**  
+- Relies on heating a metal source in a **boat or coil**.  
+- Requires the source holder (boat/coil) to have a **higher melting point** than the source material.  
+- **Limitation:** If the source and holder have similar melting points, both will evaporate, contaminating the deposition.  
+- Used for **conductive materials**, as voltage is applied across the source holder.  
+
+#### **2. Electron Beam (E-beam) Evaporation**  
+- **Overcomes thermal evaporation limitations** by using a high-energy **electron beam** to heat and evaporate source material.  
+- Works with **high-melting-point materials** (e.g., ceramics) that thermal evaporation cannot handle.  
+- Source material is placed in a **water-cooled crucible** to prevent overheating.  
+- Electron beam is generated, accelerated, and **deflected by a magnetic field** to precisely target the source material.  
+- **Deposition occurs at maximum rate** when the substrate is positioned **perpendicular** to the evaporating source (cosine law).  
+- Uses **quartz crystal monitor (QCM)** for **thickness control** and requires **vacuum conditions** (10⁻⁶ torr).  
+
+#### **3. System Components and Deposition Mechanism**  
+- **E-beam evaporation chamber** includes:  
+  - **Vacuum pumps** (rotary pump for low vacuum, turbomolecular pump for high vacuum).  
+  - **Electron gun** to generate and control the beam.  
+  - **Shields/shutters** to prevent unwanted deposition.  
+  - **Substrate rotation** for uniform deposition.  
+
+- **Deposition Process:**  
+  1. **Electron beam generation** (via thermionic emission).  
+  2. **Beam acceleration and deflection** towards the source material.  
+  3. **Source material melts and evaporates** under high energy.  
+  4. **Evaporated material deposits on the substrate** following cosine law.  
+
+#### **4. Advantages of E-beam Over Thermal Evaporation**  
+- **Handles high-melting-point materials.**  
+- **Reduces contamination** (no crucible evaporation).  
+- **Provides better control** over deposition thickness and uniformity.  
+- **Higher deposition rates** and efficiency.  
+
+The lecture concludes with a discussion on **pocket designs for E-beam evaporation systems** (single-source, rotary, linear pockets), which allow different material deposition setups.
