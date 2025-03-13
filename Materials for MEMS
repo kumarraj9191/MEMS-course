@@ -1,0 +1,44 @@
+### **Summary of Lecture on Materials for MEMS**
+
+This lecture focuses on **materials for MEMS (Microelectromechanical Systems)**, particularly **silicon**, due to its suitability for microfabrication techniques like **micromachining**. The key topics covered include:  
+
+#### **1. Introduction to Silicon in MEMS**  
+- **Silicon** is the primary material used in MEMS for fabricating microstructures like actuators and diaphragms.  
+- MEMS techniques can also be used to create sensors using **other materials** like glass and polymers.  
+
+#### **2. Silicon Boules & Wafers**  
+- **Silicon boules** are cylindrical single-crystal silicon structures, produced in **silicon foundries** under **cleanroom conditions** to prevent contamination.  
+- The **two main fabrication techniques**:  
+  - **Czochralski (CZ) technique**  
+  - **Float-zone (FZ) technique**  
+
+#### **3. Silicon Wafer Manufacturing Process**  
+- **Steps from boule to wafer:**  
+  1. **Crystal trimming & diameter grinding**  
+  2. **Flat grinding (creating primary and secondary flats)**  
+  3. **Wafer slicing using diamond wires**  
+  4. **Edge rounding, lapping, wafer etching, and polishing**  
+  5. **Final inspection for defects**  
+- **Types of wafers:**  
+  - **Single-side polished (SSP)** – Only one side is polished.  
+  - **Double-side polished (DSP)** – Both sides are polished.  
+
+#### **4. Identifying Wafer Type & Orientation**  
+- Wafers have **primary and secondary flats** to indicate:  
+  - **n-type or p-type doping**  
+  - **Crystal orientation (100 or 111 planes)**  
+- **Flat position and type determination:**  
+  - **Only one flat → p-type (111) wafer**  
+  - **Two flats, 180° apart → n-type (100) wafer**  
+  - **Two flats, 90° apart → p-type (100) wafer**  
+  - **Two flats, 45° apart → n-type (111) wafer**  
+
+#### **5. Applications & Substrates in MEMS**  
+- **Silicon wafers** are used as the primary substrate in MEMS.  
+- Other possible substrates: **glass, polymers, PDMS**.  
+- Examples shown include **cantilevers, interdigitated electrodes, and patterned sensors**.  
+
+#### **6. Next Lecture Preview**  
+- Further discussion on **silicon dioxide**, its role as **masking oxide vs. field oxide**, and **thermal oxidation techniques**.  
+
+This lecture provided an overview of **silicon wafer fabrication and classification**, which is crucial for MEMS device development.
