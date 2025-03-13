@@ -1,0 +1,72 @@
+### Notes on Physical Vapor Deposition (PVD) and Thermal Evaporation
+
+1. **Introduction to Physical Vapor Deposition (PVD):**
+   - PVD is a technique used to deposit thin films of materials onto substrates.
+   - It is divided into three main techniques:
+     1. **Physical Vapor Deposition (PVD):**
+        - Includes **thermal evaporation** and **electron-beam evaporation**.
+     2. **Sputtering:** A separate technique under physical deposition.
+
+2. **Thermal Evaporation:**
+   - A PVD technique where a material is heated to its evaporation point in a vacuum.
+   - Used to deposit metals, semiconductors, or insulators on substrates like silicon, glass, or polymers.
+   - **Process:**
+     - A source material (e.g., metal) is heated in a vacuum chamber using a resistive heater (e.g., tungsten filament).
+     - The material evaporates and condenses onto the substrate.
+   - **Key Components:**
+     - **Vacuum Chamber:** Essential to increase the mean free path of evaporated atoms, ensuring uniform deposition.
+     - **Source Holder (Boat):** Holds the material to be evaporated.
+     - **Substrate Holder:** Holds the substrate where the material is deposited.
+     - **Quartz Crystal Monitor (QCM):** Measures the thickness of the deposited material.
+     - **Shield/Mask:** Prevents deposition until the material is fully melted.
+
+3. **Mean Free Path:**
+   - The average distance a molecule travels before colliding with another molecule.
+   - Formula: \( \lambda = \frac{kT}{\sqrt{2} \pi P d^2} \), where:
+     - \( \lambda \): Mean free path.
+     - \( k \): Boltzmann constant.
+     - \( T \): Absolute temperature.
+     - \( P \): Pressure.
+     - \( d \): Diameter of gas molecules.
+   - Higher vacuum (lower pressure) increases the mean free path, improving deposition uniformity.
+
+4. **Vacuum System:**
+   - **Primary Pump (Rotary Pump):** Creates a vacuum of \( 10^{-2} \) to \( 10^{-3} \) torr.
+   - **Secondary Pump (e.g., Turbo Molecular Pump):** Achieves higher vacuum (\( 10^{-6} \) to \( 10^{-7} \) torr).
+   - **Vacuum Gauges:**
+     - **Pirani Gauge:** Measures low vacuum (\( 10^{-2} \) to \( 10^{-3} \) torr).
+     - **Penning Gauge:** Measures high vacuum (\( 10^{-5} \) to \( 10^{-6} \) torr).
+
+5. **Limitations of Thermal Evaporation:**
+   - **Melting Point Constraint:** The source holder must have a much higher melting point than the material being evaporated.
+   - **Poor Step Coverage:** Atoms have little time to rearrange, leading to uneven deposition on stepped surfaces.
+   - **Thickness Uniformity:** Rapid surface reactions result in poor thickness uniformity.
+
+6. **Evaporation Sources:**
+   - **Tungsten Wire Sources:** Used for materials with low melting points.
+   - **Refractory Metal Sources (e.g., Tungsten, Tantalum, Molybdenum):** Used for materials with poor wetting properties or in powder form.
+   - **Sublimation Furnace:** Used for materials that transition directly from solid to vapor (e.g., sulfides, selenides).
+   - **Crucible Sources:** Made of materials like \( Al_2O_3 \), \( BN \), or graphite.
+
+7. **Thermal Evaporation Systems:**
+   - **Manual System:** Requires manual control of voltage, current, and deposition rate.
+   - **Semi-Automatic System:** Automates vacuum control, deposition rate, and shield operation.
+   - **Substrate Rotation:** Improves deposition uniformity by rotating the substrate during evaporation.
+
+8. **Applications of Thermal Evaporation:**
+   - Deposition of metals (e.g., aluminum) on substrates for MEMS, semiconductors, or insulators.
+   - Used in alloy deposition, where the binding energy of alloy components differs from pure metals.
+
+9. **Comparison with Other Techniques:**
+   - **Electron-Beam Evaporation:** Overcomes the limitation of thermal evaporation by using an electron beam to heat the source material, allowing for higher melting point materials.
+   - **Sputtering:** A separate PVD technique where atoms are dislodged from a target material and deposited onto a substrate.
+
+10. **Key Takeaways:**
+    - PVD is versatile and widely used for depositing thin films.
+    - Thermal evaporation is simple but limited by the melting point of the source holder and poor step coverage.
+    - Vacuum is critical for improving the mean free path and deposition uniformity.
+    - Electron-beam evaporation and sputtering are alternatives for materials with high melting points or complex structures.
+
+11. **Next Lecture Preview:**
+    - Focus on **electron-beam evaporation** and **sputtering** techniques.
+    - Explore how electron-beam evaporation overcomes the limitations of thermal evaporation.
