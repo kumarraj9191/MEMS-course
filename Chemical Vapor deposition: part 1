@@ -1,0 +1,139 @@
+### Clear Notes on Chemical Vapor Deposition (CVD)
+
+---
+
+#### **1. Introduction to CVD:**
+- **CVD** is a **thin film deposition technique** used in microfabrication.
+- It involves **chemical reactions** between precursor gases to form a solid film on a substrate.
+- CVD is widely used in MEMS, semiconductor, and sensor fabrication.
+
+---
+
+#### **2. Comparison with Physical Vapor Deposition (PVD):**
+- **PVD (Evaporation & Sputtering):**
+  - No chemical reactions occur.
+  - Material is physically evaporated or sputtered onto the substrate.
+  - **Limitations:** Poor step coverage and conformality, especially for high-aspect-ratio structures.
+- **CVD:**
+  - Involves chemical reactions (e.g., reduction, oxidation) on the substrate surface.
+  - Provides **better conformality** and **uniformity** compared to PVD.
+
+---
+
+#### **3. Types of CVD:**
+CVD is classified based on reaction conditions:
+1. **APCVD (Atmospheric Pressure CVD):**
+   - Reactions occur at **atmospheric pressure**.
+2. **LPCVD (Low Pressure CVD):**
+   - Reactions occur at **low pressure**.
+3. **PECVD (Plasma Enhanced CVD):**
+   - Uses **plasma** to enhance chemical reactions at lower temperatures.
+
+---
+
+#### **4. Advantages of CVD Over PVD:**
+- **Better Conformality:** Uniform deposition on high-aspect-ratio structures (e.g., trenches, sidewalls).
+- **Uniform Thickness:** Ensures consistent film thickness across the substrate.
+- **Versatility:** Can deposit a wide range of materials (e.g., oxides, nitrides, metals).
+
+---
+
+#### **5. Key Concepts in CVD:**
+
+1. **Conformal vs. Non-Conformal Deposition:**
+   - **Conformal Deposition:**
+     - Uniform film thickness on both horizontal and vertical surfaces.
+     - Preferred for most applications.
+   - **Non-Conformal Deposition:**
+     - Uneven film thickness (e.g., thicker on horizontal surfaces, thinner on sidewalls).
+     - Preferred for **lift-off processes** (easier removal of excess material).
+
+2. **Geometrical Shadowing in PVD:**
+   - In PVD, directional flux causes poor coverage on sidewalls (shadowing effect).
+   - Solutions:
+     - Rotate or tilt the substrate.
+     - Increase substrate temperature for better surface diffusion.
+     - Use large-area deposition sources.
+
+---
+
+#### **6. Steps in CVD Process:**
+1. **Transport of Reactant Molecules:**
+   - Precursor gases are introduced into the chamber via **forced convection**.
+2. **Diffusion to Substrate Surface:**
+   - Reactant molecules diffuse from the gas flow to the substrate surface.
+3. **Absorption on Substrate:**
+   - Molecules adsorb onto the substrate surface.
+4. **Chemical Reaction:**
+   - Reactions (e.g., reduction, oxidation) occur on the substrate surface.
+5. **Nucleation and Film Formation:**
+   - Molecules form a new phase (nucleation) and grow into a thin film.
+6. **Desorption of Byproducts:**
+   - Byproducts desorb from the substrate surface.
+7. **Removal of Byproducts:**
+   - Byproducts are purged out of the chamber via forced convection.
+
+---
+
+#### **7. Types of Chemical Reactions in CVD:**
+1. **Homogeneous Reactions:**
+   - Occur in the gas phase.
+   - Result in poor film uniformity (byproducts randomly land on the substrate).
+2. **Heterogeneous Reactions:**
+   - Occur on the substrate surface.
+   - Preferred for CVD as they ensure uniform film formation.
+
+---
+
+#### **8. Precursor Materials for CVD:**
+- Precursors can be in the form of:
+  1. **Gases:** Directly introduced into the chamber.
+  2. **Liquids:** Evaporated to form vapors.
+  3. **Sublimable Solids:** Converted to vapors.
+- **Requirements for Precursors:**
+  - Stable at room temperature.
+  - Volatile enough to form vapors.
+  - React at temperatures below the substrate's melting point.
+  - Produce easily removable byproducts.
+
+---
+
+#### **9. Substrate Considerations:**
+- The substrate must:
+  - Absorb precursor molecules effectively.
+  - Facilitate chemical reactions.
+  - Example: Tungsten fluoride deposits on silicon but not on SiO₂.
+
+---
+
+#### **10. Applications of CVD:**
+- **Semiconductor Industry:**
+  - Deposition of dielectric layers (e.g., SiO₂, Si₃N₄).
+  - Metal interconnects (e.g., tungsten, copper).
+- **MEMS and Sensors:**
+  - Fabrication of thin films for sensors and actuators.
+- **Optoelectronics:**
+  - Deposition of transparent conductive oxides (e.g., ITO).
+
+---
+
+#### **11. Summary of CVD Advantages:**
+- **Uniformity:** Better than PVD for high-aspect-ratio structures.
+- **Conformality:** Ensures uniform film thickness on complex geometries.
+- **Versatility:** Can deposit a wide range of materials.
+
+---
+
+#### **12. Key Takeaways:**
+- CVD is a **chemical-based deposition technique** that provides **uniform and conformal thin films**.
+- It overcomes the limitations of PVD, especially for **high-aspect-ratio structures**.
+- The choice between **conformal** and **non-conformal** deposition depends on the application (e.g., lift-off processes prefer non-conformal deposition).
+
+---
+
+#### **13. Next Steps:**
+- Explore **etching techniques** in the upcoming lectures.
+- Understand how CVD integrates into the overall microfabrication process for MEMS and sensors.
+
+--- 
+
