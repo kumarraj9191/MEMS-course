@@ -1,0 +1,88 @@
+### Summary Notes on Sputtering
+
+1. **Introduction to Sputtering:**
+   - Sputtering is a **Physical Vapor Deposition (PVD)** technique used to deposit thin films.
+   - It is divided into four categories:
+     1. **DC Sputtering**
+     2. **RF Sputtering**
+     3. **Magnetron Sputtering**
+     4. **Reactive Sputtering**
+
+2. **Basic Principle of Sputtering:**
+   - **Target (Source Material):** A disc, toroid, or plate made of the material to be deposited.
+   - **Substrate:** The material on which the thin film is deposited.
+   - **Process:**
+     - A vacuum is created in the chamber.
+     - **Argon gas** is introduced, and ions are generated.
+     - Argon ions bombard the target, dislodging atoms that deposit onto the substrate.
+   - **Key Components:**
+     - **Anode and Cathode:** Target is at the cathode, and substrate is at the anode.
+     - **Vacuum Chamber:** Ensures a clean environment for deposition.
+     - **Argon Gas:** Inert gas used to generate ions for bombardment.
+
+3. **Energy and Deposition:**
+   - **Ion Energy:** Optimal energy for sputtering is **10 to 50 electron volts (eV)**.
+     - Too low energy: Ions bounce off or adsorb on the surface.
+     - Too high energy: Ions penetrate the substrate (ion implantation).
+   - **Step Coverage:** Sputtering provides better step coverage compared to **thermal evaporation** and **electron-beam evaporation** but is inferior to **Chemical Vapor Deposition (CVD)**.
+
+4. **Sputtering Yield:**
+   - **Definition:** Ratio of the number of sputtered atoms to the number of incident ions.
+   - **Factors Affecting Yield:**
+     1. **Binding Energy:** Inversely proportional to sputtering yield.
+     2. **Atomic Mass:** Directly proportional to sputtering yield.
+     3. **Angle of Incidence:** Optimal angle for maximum yield is **60-70 degrees**.
+   - **Pressure:** Lower pressure improves sputtering yield by increasing the mean free path of atoms.
+
+5. **Types of Sputtering:**
+   - **DC Sputtering:**
+     - Uses a **DC voltage** to generate plasma.
+     - **Deposition Rate:** Depends on pressure and DC voltage.
+     - **Limitation:** Cannot deposit insulating materials.
+   - **RF Sputtering:**
+     - Uses **RF power (13.56 MHz)** to deposit insulating thin films.
+     - **Advantage:** Can deposit both metals and insulators.
+   - **Magnetron Sputtering:**
+     - Uses **magnetic fields** to trap electrons, increasing ion collisions and deposition rate.
+     - **Advantage:** Higher deposition rates and better film quality.
+   - **Reactive Sputtering:**
+     - Deposits **compound films** (e.g., oxides, nitrides, carbides) by introducing reactive gases (e.g., oxygen, nitrogen) during sputtering.
+     - **Applications:** Used for depositing materials like **indium tin oxide (ITO)**.
+
+6. **Bias Sputtering:**
+   - **Definition:** Applying a **negative DC or RF bias** to the substrate to modify film properties.
+   - **Applications:** Used to alter film stress, adhesion, and optical properties.
+
+7. **Advantages of Sputtering:**
+   - **Better Step Coverage:** Compared to thermal and e-beam evaporation.
+   - **Wide Material Range:** Can deposit metals, insulators, and compounds.
+   - **Uniform Thickness:** Easily controlled by adjusting operating parameters.
+   - **Substrate Cleaning:** Allows in-situ cleaning of the substrate before deposition.
+
+8. **Limitations of Sputtering:**
+   - **High Capital Cost:** Expensive equipment and setup.
+   - **Low Deposition Rates:** For some materials, deposition rates are slower compared to evaporation.
+   - **Material Degradation:** Organic materials can degrade during sputtering.
+   - **Impurities:** Higher pressure can introduce impurities into the film.
+
+9. **Comparison with Other Techniques:**
+   - **PVD vs. CVD:**
+     - **PVD Advantages:** Higher deposition rates, no harmful gases.
+     - **PVD Limitations:** Poorer step coverage and film uniformity compared to CVD.
+   - **Sputtering vs. Evaporation:**
+     - **Sputtering Advantages:** Better for alloys, better step coverage, and larger substrate sizes.
+     - **Evaporation Advantages:** Higher purity films, simpler process.
+
+10. **Applications of Sputtering:**
+    - **Industrial Uses:** LCD screens, computer hard disks, tool coatings, and metal deposition on plastics.
+    - **MEMS and Sensors:** Used in the fabrication of MEMS-based sensors and devices.
+
+11. **Key Takeaways:**
+    - Sputtering is a versatile PVD technique for depositing thin films of metals, insulators, and compounds.
+    - It offers better step coverage and material versatility compared to evaporation techniques.
+    - **Magnetron sputtering** and **reactive sputtering** are advanced variants that improve deposition rates and enable the deposition of complex materials.
+    - Sputtering is widely used in industries for applications ranging from electronics to hard coatings.
+
+12. **Next Steps:**
+    - **Lab Demonstration:** Understanding the operation of sputtering tools.
+    - **CVD Techniques:** Exploring chemical vapor deposition in the next lecture.
