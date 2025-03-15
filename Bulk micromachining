@@ -1,0 +1,38 @@
+### **Summary of the Lecture on Micromachining Techniques**
+
+The lecture introduces **micromachining**, a crucial technique for fabricating **Microelectromechanical Systems (MEMS)**. Micromachining allows the creation of miniature structures and diaphragms necessary for MEMS devices.
+
+#### **Key Points Covered:**
+1. **Definition of Micromachining**  
+   - Derived from traditional machining (e.g., turning, milling, laser machining).  
+   - Enables fabrication of structures at the micrometer scale (10⁻⁶ m).  
+   - Forms the basis for MEMS-based device fabrication.
+
+2. **Difference Between MEMS and MMS**  
+   - MEMS: Devices with both mechanical and electronic components.  
+   - MMS: Devices that only involve microstructures without moving parts.
+
+3. **Types of Micromachining**  
+   - **Bulk Micromachining**:  
+     - Involves selective etching of silicon to remove large portions (bulk).  
+     - Uses techniques like **wet etching** (KOH, TMH) and **dry etching** (DRIE).  
+     - Example: Creating a **diaphragm** by removing 400µm from a 500µm silicon wafer.
+   - **Surface Micromachining** (to be covered in the next lecture):  
+     - Focuses on adding and etching thin layers rather than removing bulk material.
+
+4. **Micromachining Process Steps** (for bulk micromachining)  
+   - Start with a **silicon wafer**.  
+   - Grow a **silicon dioxide (SiO₂) layer** via thermal oxidation (wet/dry oxidation).  
+   - Apply **photoresist**, expose it to **UV light**, and develop the pattern.  
+   - Use **etching techniques** (wet/dry) to remove silicon selectively.  
+   - **Final structure** (e.g., diaphragm) remains after etching.
+
+5. **Key Etching Concepts**  
+   - **Aspect Ratio**: Height-to-width ratio of etched structures.  
+   - **Selectivity**: Ability to etch one material while preserving another.  
+   - **Etch Rate**: Speed of the etching process.  
+   - **Etch Profile**: The shape of the etched walls (vertical or sloped).  
+
+#### **Conclusion**  
+The lecture focused on **bulk micromachining**, explaining how it works and its applications in MEMS fabrication. 
+The next session will cover **surface micromachining**, where structures are built rather than etched into silicon.
