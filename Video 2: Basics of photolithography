@@ -1,0 +1,35 @@
+### **Summary of the Lecture on Photolithography**  
+
+This module continues from the previous discussion on photolithography, focusing on photoresists and pattern transfer techniques.  
+
+#### **Key Topics Covered:**  
+
+1. **Photoresist Types:**  
+   - **Positive Photoresist:** UV exposure removes the resist, transferring the same pattern from the mask.  
+   - **Negative Photoresist:** UV exposure retains the resist, creating the reverse pattern from the mask.  
+
+2. **Photolithography Process:**  
+   - **Substrate Preparation:**  
+     - Silicon wafer cleaning.  
+     - Oxide growth (SiO₂) via dry or wet oxidation.  
+     - Metal deposition (e.g., Aluminum using PVD).  
+   - **Photoresist Application:**  
+     - Spin coating with a vacuum chuck.  
+     - Soft baking (~90°C for 1 min) to improve adhesion and uniformity.  
+   - **UV Exposure & Development:**  
+     - Aligning and exposing the wafer using a mask.  
+     - Developing the photoresist (normal, under, and overdevelopment effects).  
+   - **Etching & Final Processing:**  
+     - Wet etching to remove unwanted metal.  
+     - Photoresist removal using acetone.  
+     - Rinsing with DI water and drying with nitrogen.  
+
+3. **Key Considerations:**  
+   - Development time and dosage depend on the material (e.g., SU8 needs different exposure for silicon vs. glass).  
+   - Positive resist transfers the mask pattern; negative resist inverts it.  
+   - Mask types: **Bright field** (light areas define the pattern) and **dark field** (dark areas define the pattern).  
+
+#### **Next Module:**  
+- Introduction to photomask types and classification (bright field vs. dark field masks).  
+
+This lecture provided a detailed walkthrough of photolithography, from wafer preparation to final patterning.
