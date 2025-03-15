@@ -1,0 +1,50 @@
+### **Summary of the Lecture on Photolithography**  
+
+#### **Introduction**
+- The lecture covers **photolithography**, its steps, and an example of fabricating a device using the technique.
+- A brief mention of **electron-beam lithography (e-beam lithography)** as an alternative method.
+
+#### **What is Photolithography?**
+- A technique used to **print features on a wafer** using **photoresist** and **UV light**.
+- Essential for patterning metals on **silicon wafers**, often over a layer of **silicon dioxide (SiO₂)** to prevent short-circuiting.
+- Metal deposition methods include **thermal evaporation, e-beam evaporation, and sputtering**.
+
+#### **Steps in Photolithography**
+1. **Wafer Cleaning:**  
+   - Cleaning using **N₂+H₂O bubble jet, high-pressure rinse, and sonication**.
+   - Followed by **dehydration bake (pre-bake)** to remove moisture.
+
+2. **Pre-bake and Primer Coating:**  
+   - **Pre-bake (110-120°C)** ensures moisture removal.  
+   - **Primer coating** (e.g., HMDS) enhances **photoresist adhesion**.
+
+3. **Photoresist Spin Coating:**  
+   - **Spin coating of photoresist** (positive or negative).  
+   - **RPM control** determines photoresist thickness.
+
+4. **Soft Bake:**  
+   - **90°C for 1 min on a hot plate** to remove solvents and improve adhesion.
+
+5. **Mask Alignment & UV Exposure:**  
+   - **Mask alignment** to define the pattern.  
+   - UV light exposure through a **chrome-glass mask**.
+
+6. **Development & Hard Bake:**  
+   - Developing removes **either the exposed (positive resist) or unexposed (negative resist) areas**.  
+   - **Hard bake (120°C, 1 min)** to improve durability.
+
+7. **Pattern Inspection:**  
+   - Final step to check feature accuracy.
+
+#### **Types of Photoresists**
+- **Positive Photoresist:**  
+  - **Exposed areas become weaker** and dissolve in the developer.  
+  - **Same mask pattern is transferred** to the wafer.
+
+- **Negative Photoresist:**  
+  - **Exposed areas become stronger** and remain after development.  
+  - **Inverse of the mask pattern is transferred** to the wafer.
+
+#### **Conclusion**
+- Recap of **photolithography steps, types of photoresists, and the importance of masks**.
+- The next lecture will cover **mask design, exposure mechanisms, and further processing details**.
