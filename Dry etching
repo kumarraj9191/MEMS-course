@@ -1,0 +1,27 @@
+### **Summary of the Text: Dry Etching and Reactive Ion Etching (RIE)**
+
+The lecture introduces **dry etching**, contrasting it with **wet etching** by explaining that dry etching involves **gaseous or plasma states** rather than liquid baths. The four types of dry etching discussed are:
+
+1. **Gas-phase etching** – Similar to wet etching but uses gases instead of liquids (e.g., HF vapor for oxide etching).
+2. **Plasma chemical etching** – Uses **plasma** instead of a liquid, ensuring isotropic etching without physical bombardment (e.g., oxygen plasma for removing photoresist).
+3. **Ion beam etching** – A purely **physical** process where ions bombard the substrate, offering **high anisotropy** but **low selectivity**.
+4. **Reactive Ion Etching (RIE)** – A combination of **chemical and physical etching**, using **plasma-generated ions** for directionality and **reactive species** for selectivity. This is the primary dry etching method discussed.
+
+### **Reactive Ion Etching (RIE) Process**
+- Involves an **electric field** that directs **ions (e.g., argon, oxygen)** toward the substrate.
+- **Neutral radicals** from plasma chemically react with the substrate to form **volatile compounds**, which are then removed.
+- The process enables **high selectivity (chemical)** and **high anisotropy (physical)**.
+- Example: **Etching aluminum using chlorine plasma**, forming **AlCl₃** gas that escapes.
+
+### **Deep Reactive Ion Etching (DRIE) - Bosch Process**
+- Specialized RIE method for **deep cavities and high aspect ratio (HAR) structures**.
+- Uses **cyclic passivation (C₄F₈ polymer) and etching (SF₆ plasma)** to achieve vertical etching while preventing lateral etching.
+- Useful for **MEMS fabrication**, including **microheaters and diaphragms**.
+
+### **Microheater Fabrication Using RIE**
+- A **silicon substrate** is coated with **thermal SiO₂** for insulation.
+- **Metal layers (Ti/Au)** are deposited and patterned using **lift-off**.
+- The microheater generates heat via **Joule heating (I²R heating)**.
+- To improve efficiency, a **diaphragm** is created using **RIE to etch silicon**, reducing heat loss and lowering power consumption.
+
+This process significantly enhances **thermal efficiency**, reducing power requirements while maintaining **high precision and selectivity** in fabrication.
